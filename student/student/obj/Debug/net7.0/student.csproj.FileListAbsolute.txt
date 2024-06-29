@@ -1,0 +1,15 @@
+/Users/quixar/Projects/student/student/bin/Debug/net7.0/student
+/Users/quixar/Projects/student/student/bin/Debug/net7.0/student.deps.json
+/Users/quixar/Projects/student/student/bin/Debug/net7.0/student.runtimeconfig.json
+/Users/quixar/Projects/student/student/bin/Debug/net7.0/student.dll
+/Users/quixar/Projects/student/student/bin/Debug/net7.0/student.pdb
+/Users/quixar/Projects/student/student/obj/Debug/net7.0/student.csproj.AssemblyReference.cache
+/Users/quixar/Projects/student/student/obj/Debug/net7.0/student.GeneratedMSBuildEditorConfig.editorconfig
+/Users/quixar/Projects/student/student/obj/Debug/net7.0/student.AssemblyInfoInputs.cache
+/Users/quixar/Projects/student/student/obj/Debug/net7.0/student.AssemblyInfo.cs
+/Users/quixar/Projects/student/student/obj/Debug/net7.0/student.csproj.CoreCompileInputs.cache
+/Users/quixar/Projects/student/student/obj/Debug/net7.0/student.dll
+/Users/quixar/Projects/student/student/obj/Debug/net7.0/refint/student.dll
+/Users/quixar/Projects/student/student/obj/Debug/net7.0/student.pdb
+/Users/quixar/Projects/student/student/obj/Debug/net7.0/student.genruntimeconfig.cache
+/Users/quixar/Projects/student/student/obj/Debug/net7.0/ref/student.dll
